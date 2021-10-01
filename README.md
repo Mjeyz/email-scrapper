@@ -19,13 +19,3 @@ $ npm install
 #Start's development server(both backend and frontend)
 $ npm run dev
 ```
-
-## Limitation
-Does not work in some modern websites.
-
-## Support
-Show your ❤️ and support by giving a ⭐.
-
-## License
-<p>MIT Licensed.</p>
-<p>Copyright © <a href="https://arifszn.github.io">MD. Ariful Alam</a> 2020.</p>
