@@ -1,5 +1,5 @@
 {
-  "name": "EMail Scrapper",
+  "name": "EMail_Scrapper",
   "version": "0.0.1",
   "engines": {
     "node": "12.18.0",
